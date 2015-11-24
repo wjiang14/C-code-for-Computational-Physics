@@ -1,0 +1,1 @@
+For x = 2.500000 the value of the polynomial is -268.208344
